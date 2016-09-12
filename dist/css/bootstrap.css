@@ -325,7 +325,7 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   color: #373a3c;
-  background-color: #fff;
+  background-color: #3338ff;
 }
 
 [tabindex="-1"]:focus {
@@ -671,7 +671,7 @@ dl.row > dd + dt {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #3338ff;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
   -webkit-transition: all .2s ease-in-out;
@@ -1709,7 +1709,7 @@ pre code {
 }
 
 .table .table {
-  background-color: #fff;
+  background-color: #3338ff;
 }
 
 .table-sm th,
@@ -3625,7 +3625,7 @@ input[type="button"].btn-block {
 .nav-tabs .nav-item.open .nav-link:focus,
 .nav-tabs .nav-item.open .nav-link:hover {
   color: #55595c;
-  background-color: #fff;
+  background-color: #3338ff;
   border-color: #ddd #ddd transparent;
 }
 
